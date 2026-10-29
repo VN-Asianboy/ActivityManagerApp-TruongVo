@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActivityManagerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0cbf6335ce333e60bd358f3c4e0d8ecffb98d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActivityManagerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActivityManagerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -59,9 +59,7 @@ namespace ActivityManagerApp.DataAccess
     {
         public FitnessActivityMap()
         {
-            Map(x => x.DateStartTime)
-                .TypeConverterOption.Format("d/M/yyyy H:mm");
-
+            Map(x => x.DateStartTime).TypeConverterOption.Format("d/M/yyyy H:mm");
             Map(x => x.Title);
             Map(x => x.Cost);
             Map(x => x.Location);

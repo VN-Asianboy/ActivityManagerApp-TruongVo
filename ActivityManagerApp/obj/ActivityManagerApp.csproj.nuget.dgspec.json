@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\ActivityManagerApp.csproj": {}
+    "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp-TruongVo\\ActivityManagerApp\\ActivityManagerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\ActivityManagerApp.csproj": {
+    "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp-TruongVo\\ActivityManagerApp\\ActivityManagerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\ActivityManagerApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp-TruongVo\\ActivityManagerApp\\ActivityManagerApp.csproj",
         "projectName": "ActivityManagerApp",
-        "projectPath": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\ActivityManagerApp.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp-TruongVo\\ActivityManagerApp\\ActivityManagerApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp-TruongVo\\ActivityManagerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
           "dependencies": {
             "CsvHelper": {
               "target": "Package",
-              "version": "[34.0.0, )"
+              "version": "[33.1.0, )"
             },
             "FileHelpers": {
               "target": "Package",
