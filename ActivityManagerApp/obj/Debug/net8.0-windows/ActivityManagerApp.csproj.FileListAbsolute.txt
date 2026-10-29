@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\TAFE C#\SEMESTER 2\ICTPRG439 _Use pre-existing components\Assessments\Event 3\ActivityManagerApp\obj\Debug\net8.0-windows\ActivityManagerApp.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TAFE C#\SEMESTER 2\ICTPRG439 _Use pre-existing components\Assessments\Event 3\ActivityManagerApp\obj\Debug\net8.0-windows\ActivityManagerApp.Form1.resources
+C:\Users\User\Downloads\TAFE C#\SEMESTER 2\ICTPRG439 _Use pre-existing components\Assessments\Event 3\ActivityManagerApp\obj\Debug\net8.0-windows\ActivityManagerApp.csproj.GenerateResource.cache
+C:\Users\User\Downloads\TAFE C#\SEMESTER 2\ICTPRG439 _Use pre-existing components\Assessments\Event 3\ActivityManagerApp\obj\Debug\net8.0-windows\ActivityManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TAFE C#\SEMESTER 2\ICTPRG439 _Use pre-existing components\Assessments\Event 3\ActivityManagerApp\obj\Debug\net8.0-windows\ActivityManagerApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TAFE C#\SEMESTER 2\ICTPRG439 _Use pre-existing components\Assessments\Event 3\ActivityManagerApp\obj\Debug\net8.0-windows\ActivityManagerApp.AssemblyInfo.cs
+C:\Users\User\Downloads\TAFE C#\SEMESTER 2\ICTPRG439 _Use pre-existing components\Assessments\Event 3\ActivityManagerApp\obj\Debug\net8.0-windows\ActivityManagerApp.csproj.CoreCompileInputs.cache

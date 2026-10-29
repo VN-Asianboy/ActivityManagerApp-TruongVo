@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|c:\\users\\user\\downloads\\tafe c#\\semester 2\\ictprg439 _use pre-existing components\\assessments\\event 3\\activitymanagerapp\\dataaccess\\fitnesscsvmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|solutionrelative:dataaccess\\fitnesscsvmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|c:\\users\\user\\downloads\\tafe c#\\semester 2\\ictprg439 _use pre-existing components\\assessments\\event 3\\activitymanagerapp\\models\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|solutionrelative:models\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|c:\\users\\user\\downloads\\tafe c#\\semester 2\\ictprg439 _use pre-existing components\\assessments\\event 3\\activitymanagerapp\\dataaccess\\entertainmentcsvmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|solutionrelative:dataaccess\\entertainmentcsvmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|c:\\users\\user\\downloads\\tafe c#\\semester 2\\ictprg439 _use pre-existing components\\assessments\\event 3\\activitymanagerapp\\models\\entertainmentactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|solutionrelative:models\\entertainmentactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|c:\\users\\user\\downloads\\tafe c#\\semester 2\\ictprg439 _use pre-existing components\\assessments\\event 3\\activitymanagerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4C67B34-0FD5-40D5-876D-72E120500039}|ActivityManagerApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FitnessCsvManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\DataAccess\\FitnessCsvManager.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FitnessCsvManager.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\DataAccess\\FitnessCsvManager.cs",
+              "RelativeToolTip": "DataAccess\\FitnessCsvManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:52:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntertainmentCsvManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\DataAccess\\EntertainmentCsvManager.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EntertainmentCsvManager.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\DataAccess\\EntertainmentCsvManager.cs",
+              "RelativeToolTip": "DataAccess\\EntertainmentCsvManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:52:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FitnessActivity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\Models\\FitnessActivity.cs",
+              "RelativeDocumentMoniker": "Models\\FitnessActivity.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\Models\\FitnessActivity.cs",
+              "RelativeToolTip": "Models\\FitnessActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:35:32.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntertainmentActivity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\Models\\EntertainmentActivity.cs",
+              "RelativeDocumentMoniker": "Models\\EntertainmentActivity.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\Models\\EntertainmentActivity.cs",
+              "RelativeToolTip": "Models\\EntertainmentActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:35:50.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TAFE C#\\SEMESTER 2\\ICTPRG439 _Use pre-existing components\\Assessments\\Event 3\\ActivityManagerApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:16:23.556Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
